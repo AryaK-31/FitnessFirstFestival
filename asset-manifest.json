@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FitnessFirstFestival/static/css/main.7f824d53.css",
-    "main.js": "/FitnessFirstFestival/static/js/main.c2e62e27.js",
+    "main.js": "/FitnessFirstFestival/static/js/main.5f8a1d30.js",
     "static/js/200.690e64e7.chunk.js": "/FitnessFirstFestival/static/js/200.690e64e7.chunk.js",
     "static/js/539.22ddcfa2.chunk.js": "/FitnessFirstFestival/static/js/539.22ddcfa2.chunk.js",
     "static/js/787.c42f3475.chunk.js": "/FitnessFirstFestival/static/js/787.c42f3475.chunk.js",
@@ -36,7 +36,6 @@
     "static/media/kabaddi.jpg": "/FitnessFirstFestival/static/media/kabaddi.8ddd7f111dc6294dbb09.jpg",
     "static/media/ag.png": "/FitnessFirstFestival/static/media/ag.3f3cdab247cfdc191d7e.png",
     "static/media/sb.png": "/FitnessFirstFestival/static/media/sb.f53ca01e2455466ab608.png",
-    "static/media/leenasharma.png": "/FitnessFirstFestival/static/media/leenasharma.9d10faab1e56f60dea21.png",
     "static/media/carouselPic2.jpg": "/FitnessFirstFestival/static/media/carouselPic2.19475ebaad5175d95782.jpg",
     "static/media/ss.png": "/FitnessFirstFestival/static/media/ss.2f04020173a920ffb97c.png",
     "static/media/sat1.jpg": "/FitnessFirstFestival/static/media/sat1.dd94caa436d29ca711b7.jpg",
@@ -50,20 +49,20 @@
     "static/media/st.png": "/FitnessFirstFestival/static/media/st.8ddd2790d7f126f209db.png",
     "static/media/nc.png": "/FitnessFirstFestival/static/media/nc.23a6f3b4b8ab4fb8564c.png",
     "static/media/nd.png": "/FitnessFirstFestival/static/media/nd.53c1b36129456539cc5a.png",
-    "static/media/mca.jpg": "/FitnessFirstFestival/static/media/mca.d2ddb1249ef268546497.jpg",
     "static/media/logo.png": "/FitnessFirstFestival/static/media/logo.69c641a3fd96963c5ae5.png",
     "static/media/director.jpg": "/FitnessFirstFestival/static/media/director.aff939209e0c43a583c5.jpg",
+    "static/media/kkcar.jpg": "/FitnessFirstFestival/static/media/kkcar.046c631d0db29aa46343.jpg",
     "static/media/khu.jpg": "/FitnessFirstFestival/static/media/khu.21068dad096d19af9e96.jpg",
     "static/media/arya.jpg": "/FitnessFirstFestival/static/media/arya.d6c8c72efcadb04b5fae.jpg",
     "index.html": "/FitnessFirstFestival/index.html",
     "main.7f824d53.css.map": "/FitnessFirstFestival/static/css/main.7f824d53.css.map",
-    "main.c2e62e27.js.map": "/FitnessFirstFestival/static/js/main.c2e62e27.js.map",
+    "main.5f8a1d30.js.map": "/FitnessFirstFestival/static/js/main.5f8a1d30.js.map",
     "200.690e64e7.chunk.js.map": "/FitnessFirstFestival/static/js/200.690e64e7.chunk.js.map",
     "539.22ddcfa2.chunk.js.map": "/FitnessFirstFestival/static/js/539.22ddcfa2.chunk.js.map",
     "787.c42f3475.chunk.js.map": "/FitnessFirstFestival/static/js/787.c42f3475.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f824d53.css",
-    "static/js/main.c2e62e27.js"
+    "static/js/main.5f8a1d30.js"
   ]
 }
