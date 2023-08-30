@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FitnessFirstFestival/static/css/main.21522608.css",
-    "main.js": "/FitnessFirstFestival/static/js/main.1222334d.js",
+    "main.js": "/FitnessFirstFestival/static/js/main.a28e4e90.js",
     "static/js/200.57244e01.chunk.js": "/FitnessFirstFestival/static/js/200.57244e01.chunk.js",
     "static/js/539.22ddcfa2.chunk.js": "/FitnessFirstFestival/static/js/539.22ddcfa2.chunk.js",
     "static/js/787.c42f3475.chunk.js": "/FitnessFirstFestival/static/js/787.c42f3475.chunk.js",
@@ -26,13 +26,13 @@
     "static/media/carouselPic2.webp": "/FitnessFirstFestival/static/media/carouselPic2.c8903043267ed715e105.webp",
     "static/media/khokho.webp": "/FitnessFirstFestival/static/media/khokho.a2db34e22f71239209ca.webp",
     "static/media/timbg.webp": "/FitnessFirstFestival/static/media/timbg.3f6208bb3716a7159183.webp",
+    "static/media/badmintonol.webp": "/FitnessFirstFestival/static/media/badmintonol.121d2191cdf7b3719881.webp",
     "static/media/handball.webp": "/FitnessFirstFestival/static/media/handball.c74c60b6488880d76400.webp",
     "static/media/sportsclub.webp": "/FitnessFirstFestival/static/media/sportsclub.7dcfb63f1b6dd5ee9308.webp",
     "static/media/mangla.webp": "/FitnessFirstFestival/static/media/mangla.bd5460c91e6e887f02e6.webp",
     "static/media/amb.webp": "/FitnessFirstFestival/static/media/amb.53e410d75fe418a96ce2.webp",
     "static/media/volleyball.webp": "/FitnessFirstFestival/static/media/volleyball.e69a9933cdaa75053976.webp",
     "static/media/football.webp": "/FitnessFirstFestival/static/media/football.d2b7eb9dfddb553dbc35.webp",
-    "static/media/marathon.webp": "/FitnessFirstFestival/static/media/marathon.cf207e23f7a2561db693.webp",
     "static/media/nd.webp": "/FitnessFirstFestival/static/media/nd.fc148d6ca58159f5319c.webp",
     "static/media/trekking.webp": "/FitnessFirstFestival/static/media/trekking.a3f0adc46cd6f2d3b0dd.webp",
     "static/media/zumba.webp": "/FitnessFirstFestival/static/media/zumba.57391364fb0acade99a4.webp",
@@ -64,13 +64,13 @@
     "static/media/gallery1.webp": "/FitnessFirstFestival/static/media/gallery1.c412532d7cd2b57bea51.webp",
     "index.html": "/FitnessFirstFestival/index.html",
     "main.21522608.css.map": "/FitnessFirstFestival/static/css/main.21522608.css.map",
-    "main.1222334d.js.map": "/FitnessFirstFestival/static/js/main.1222334d.js.map",
+    "main.a28e4e90.js.map": "/FitnessFirstFestival/static/js/main.a28e4e90.js.map",
     "200.57244e01.chunk.js.map": "/FitnessFirstFestival/static/js/200.57244e01.chunk.js.map",
     "539.22ddcfa2.chunk.js.map": "/FitnessFirstFestival/static/js/539.22ddcfa2.chunk.js.map",
     "787.c42f3475.chunk.js.map": "/FitnessFirstFestival/static/js/787.c42f3475.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21522608.css",
-    "static/js/main.1222334d.js"
+    "static/js/main.a28e4e90.js"
   ]
 }
