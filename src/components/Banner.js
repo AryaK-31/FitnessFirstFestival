@@ -1,7 +1,7 @@
 import React from 'react';
 import bg from '../Images/timbg.webp';
 import food from '../Images/food.webp'
-import chess from '../Images/chess.webp';
+import olympicFlame from '../Images/olympicFlame.webp';
 import hasya from '../Images/hasya.webp'
 import Card from '../components/Card'
 import Navbar from './Navbar';
@@ -17,6 +17,17 @@ function truncate(str, max_chars) {
 }
 
 const cardData = [
+    {
+        url: 'https://forms.gle/KLNKeBUdAa7XzT8s9',
+        func: truncate('PCCOE Olympics', 17),
+        status: false,
+        cardImg: olympicFlame,
+        sportType: 'Inaugration',
+        cov: 'object-cover',
+        pos: 'object-center',
+        date: '27-09-2023',
+        className: 'w-[30%]'
+    },
     {
         url: 'https://forms.gle/ubQVc1ZAUwysHuJv5',
         func: truncate('Healthy Food Fair', 17),
@@ -37,17 +48,6 @@ const cardData = [
         cov: 'bg-cover',
         pos: 'bg-center',
         date: '14-10-2023',
-        className: 'w-[30%]'
-    },
-    {
-        url: 'https://forms.gle/KLNKeBUdAa7XzT8s9',
-        func: truncate('PCCOE Olympics', 17),
-        status: false,
-        cardImg: chess,
-        sportType: 'Chess',
-        cov: 'object-cover',
-        pos: 'object-center',
-        date: '09-09-2023',
         className: 'w-[30%]'
     },
 ];

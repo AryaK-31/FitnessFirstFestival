@@ -68,7 +68,12 @@ const events = [
         description: '"Traditional Games (Family Day)" celebrates generational bonding with timeless activities such as sack races and board games, fostering family togetherness through classic pastimes and shared laughter.',
         isLive: false
     },
-
+    {
+        date: '23rd Dec 2023',
+        title: 'Traditional Games [Family Day]',
+        description: '"Traditional Games (Family Day)" celebrates generational bonding with timeless activities such as sack races and board games, fostering family togetherness through classic pastimes and shared laughter.',
+        isLive: false
+    },
 ];
 
 const sortedEvents = events.slice().sort((a, b) => {

@@ -1,8 +1,7 @@
 import React, { useEffect } from 'react';
-import trek from '../Images/trekking.webp';
 import food from '../Images/food.webp';
 import hasya from '../Images/hasya.webp';
-import chess from '../Images/chess.webp';
+import olympic from '../Images/olympicFlame.webp';
 import { Offcanvas, Ripple, initTE } from 'tw-elements';
 
 function Announcement() {
@@ -18,6 +17,15 @@ function Announcement() {
             olympics : false
         },
         {
+            title: 'Olympics Inaugration',
+            description: "We are thrilled to announce the Inaugural Ceremony of the Olympics event part of the Fitness First Festival at PCCoE, scheduled for 27th Sept 2023 at 5 PM! So REGISTER YOUR TEAM NOW !!",
+            img: olympic,
+            link: 'https://forms.gle/13i6bZdBativnXT1A',
+            date: '27/09/2023',
+            status: true,
+            olympics : true
+        },
+        {
             title: 'हास्य जत्रा',
             description: '"हास्य जत्रा" features musicians, jugglers, stilt walkers, and other merry-makers. Young paraders are welcome .Wear something flashy or borrow something . Positive individual or group expressions are encouraged to be a part of this fantastic show of collective effervescence. Join in!',
             img: hasya,
@@ -25,15 +33,6 @@ function Announcement() {
             date: '14/10/2023',
             status: true,
             olympics : false
-        },
-        {
-            title: 'Chess',
-            description: "All the FY, SY, TY, BE, ME, MCA and B.Voc students are hereby inform that our sports department and MESA Cell jointly organizing Inter Class Chess (Boys & Girls) Competition under PCCoE Olymics.",
-            img: chess,
-            link: 'https://forms.gle/KLNKeBUdAa7XzT8s9',
-            date: '09/09/2023',
-            status: true,
-            olympics : true
         },
     ];
     useEffect(() => {
