@@ -13,8 +13,8 @@ const events = [
         date: '9 Sept 2023',
         title: 'Chess - PCCOE Olympics!',
         description: 'All the FY, SY, TY, BE, ME, MCA and B.Voc students are hereby inform that our sports department and MESA Cell jointly organizing Inter Class Chess (Boys & Girls) Competition under PCCoE Olymics.',
-        isLive: true,
-        isDone: false
+        isLive: false,
+        isDone: true
     },
     {
         date: '8th Jul 2023',
@@ -69,10 +69,10 @@ const events = [
         isLive: false
     },
     {
-        date: '23rd Dec 2023',
-        title: 'Traditional Games [Family Day]',
-        description: '"Traditional Games (Family Day)" celebrates generational bonding with timeless activities such as sack races and board games, fostering family togetherness through classic pastimes and shared laughter.',
-        isLive: false
+        date: '27rd Sept 2023',
+        title: 'PCCOE Olympics Inaugration',
+        description: 'We are thrilled to announce the Inaugural Ceremony of the Olympics event part of the Fitness First Festival at PCCoE, scheduled for 27th Sept 2023 at 5 PM! So REGISTER YOUR TEAM NOW !!',
+        isLive: true
     },
 ];
 

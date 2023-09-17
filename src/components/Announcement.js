@@ -8,15 +8,6 @@ function Announcement() {
     const [numOfAnn, setNumOfAnn] = React.useState(0)
     const announcements = [
         {
-            title: 'Healthy Food Fair',
-            description: 'A "Healthy Food Fair" showcases nutritious and delicious culinary options, encouraging informed dietary choices. Attendees can explore diverse flavors and gain nutritional insights, promoting a healthier lifestyle.',
-            img: food,
-            link: 'https://forms.gle/ubQVc1ZAUwysHuJv5',
-            date: '23/09/2023',
-            status: true,
-            olympics : false
-        },
-        {
             title: 'Olympics Inaugration',
             description: "We are thrilled to announce the Inaugural Ceremony of the Olympics event part of the Fitness First Festival at PCCoE, scheduled for 27th Sept 2023 at 5 PM! So REGISTER YOUR TEAM NOW !!",
             img: olympic,
@@ -24,6 +15,15 @@ function Announcement() {
             date: '27/09/2023',
             status: true,
             olympics : true
+        },
+        {
+            title: 'Healthy Food Fair',
+            description: 'A "Healthy Food Fair" showcases nutritious and delicious culinary options, encouraging informed dietary choices. Attendees can explore diverse flavors and gain nutritional insights, promoting a healthier lifestyle.',
+            img: food,
+            link: 'https://forms.gle/ubQVc1ZAUwysHuJv5',
+            date: '23/09/2023',
+            status: true,
+            olympics : false
         },
         {
             title: 'हास्य जत्रा',
