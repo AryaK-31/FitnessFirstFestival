@@ -36,7 +36,7 @@ const cardData = [
         sportType: 'Fair',
         cov: 'bg-cover',
         pos: 'bg-bottom',
-        date: '23-09-2023',
+        date: '14-10-2023',
         className: 'w-[30%]'
     },
     {
