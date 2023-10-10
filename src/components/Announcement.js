@@ -21,7 +21,7 @@ function Announcement() {
             description: 'A "Healthy Food Fair" showcases nutritious and delicious culinary options, encouraging informed dietary choices. Attendees can explore diverse flavors and gain nutritional insights, promoting a healthier lifestyle.',
             img: food,
             link: 'https://forms.gle/ubQVc1ZAUwysHuJv5',
-            date: '23/09/2023',
+            date: '14/10/2023',
             status: true,
             olympics : false
         },
