@@ -43,9 +43,10 @@ const events = [
         title: 'Trekking with Tree Plantation',
         description: '"Trekking with Tree Plantation" combines outdoor adventure with environmental conservation. Participants enjoy scenic hikes while actively contributing to reforestation efforts, fostering a deeper connection with nature.',
         isLive: false
+        isDone: true
     },
     {
-        date: '23rd Sept 2023',
+        date: '14th Oct 2023',
         title: 'Healthy Food Fair',
         description: 'A "Healthy Food Fair" showcases nutritious and delicious culinary options, encouraging informed dietary choices. Attendees can explore diverse flavors and gain nutritional insights, promoting a healthier lifestyle.',
         isLive: true
